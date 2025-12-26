@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# npm
+*.tgz
+.npm/
+
+# Vim
+*.swp
+*.swo
+
+# Turbo
+.turbo/
+
+# Local config
+.mcp.json
+.context-mirror/
+.claude/
+.playwright-mcp/

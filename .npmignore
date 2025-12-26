@@ -1,0 +1,41 @@
+# Source (we publish dist/)
+src/
+
+# Dev files
+.env
+.env.local
+.vscode/
+.idea/
+.mcp.json
+.context-mirror/
+.claude/
+.playwright-mcp/
+
+# Config
+tsconfig.json
+vitest.config.ts
+
+# Tests
+tests/
+coverage/
+*.test.ts
+
+# Docs (README is included by default)
+CLAUDE.md
+ROADMAP.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+SECURITY.md
+
+# GitHub
+.github/
+
+# Editor config
+.editorconfig
+
+# Landing page
+landing/
+
+# Build artifacts
+*.tsbuildinfo
+*.tgz

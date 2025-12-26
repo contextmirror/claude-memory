@@ -1,0 +1,67 @@
+{
+  "name": "@contextmirror/claude-memory",
+  "version": "0.4.3",
+  "description": "Cross-project memory for Claude Code - know about all your projects",
+  "type": "module",
+  "main": "dist/cli.js",
+  "bin": {
+    "claude-memory": "dist/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayballs/claude-memory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nayballs/claude-memory/issues"
+  },
+  "homepage": "https://claude-memory.dev",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "dev:mcp": "tsc && node dist/mcp/server.js",
+    "scan": "node dist/cli.js scan",
+    "mcp": "node dist/mcp/server.js",
+    "setup": "node dist/cli.js setup",
+    "test": "vitest",
+    "postinstall": "echo '\\n🧠 Run \"claude-memory setup\" to configure your projects!\\n'"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "mcp",
+    "model-context-protocol",
+    "memory",
+    "context",
+    "ai",
+    "llm",
+    "anthropic",
+    "cross-project",
+    "developer-tools",
+    "productivity",
+    "code-assistant"
+  ],
+  "author": "Nathan",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "commander": "^12.1.0",
+    "glob": "^11.0.0",
+    "simple-git": "^3.27.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
