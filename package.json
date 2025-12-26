@@ -1,6 +1,6 @@
 {
   "name": "@contextmirror/claude-memory",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Cross-project memory for Claude Code - know about all your projects",
   "type": "module",
   "main": "dist/cli.js",

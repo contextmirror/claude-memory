@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.4] - 2025-12-26
+
+### Changed
+- Updated repository URLs to GitHub (nayballs/claude-memory)
+
 ## [0.4.3] - 2025-12-26
 
 ### Added
