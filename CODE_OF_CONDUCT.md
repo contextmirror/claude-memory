@@ -27,7 +27,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers via:
 
 - **Discord**: https://discord.gg/JBpsSFB7EQ
-- **GitHub Issues**: https://github.com/nayballs/claude-memory/issues
+- **GitHub Issues**: https://github.com/contextmirror/claude-memory/issues
 
 Reports will be reviewed when maintainers are available. This is a personal open source project without dedicated support staff.
 

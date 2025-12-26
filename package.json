@@ -1,6 +1,6 @@
 {
   "name": "@contextmirror/claude-memory",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Cross-project memory for Claude Code - know about all your projects",
   "type": "module",
   "main": "dist/cli.js",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nayballs/claude-memory.git"
+    "url": "git+https://github.com/contextmirror/claude-memory.git"
   },
   "bugs": {
-    "url": "https://github.com/nayballs/claude-memory/issues"
+    "url": "https://github.com/contextmirror/claude-memory/issues"
   },
   "homepage": "https://claude-memory.dev",
   "engines": {

@@ -319,4 +319,4 @@ Nathan (with Claude as co-developer)
 
 ---
 
-*[GitHub](https://github.com/nayballs/claude-memory)*
+*[GitHub](https://github.com/contextmirror/claude-memory)*
