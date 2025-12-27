@@ -184,7 +184,7 @@ Terminal (Claude Code):
 ## Links
 
 - npm: https://www.npmjs.com/package/@contextmirror/claude-memory
-- Landing: https://claudememory.contextmirror.com (pending)
+- Store: https://contextmirror.lemonsqueezy.com (pending approval)
 - Chrome Extension: (pending)
 
 ---

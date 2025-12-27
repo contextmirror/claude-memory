@@ -133,7 +133,7 @@ claude-memory/
 
 ## Pro Features
 
-Activate with `claude-memory activate <key>`. Get a license at https://claude-memory.dev
+Activate with `claude-memory activate <key>`. Get a license at https://contextmirror.lemonsqueezy.com
 
 | Feature | Description |
 |---------|-------------|
@@ -149,7 +149,7 @@ Activate with `claude-memory activate <key>`. Get a license at https://claude-me
 
 - **Discord**: https://discord.gg/JBpsSFB7EQ
 - **npm**: https://www.npmjs.com/package/@contextmirror/claude-memory
-- **Landing page**: https://claude-memory.dev
+- **GitHub**: https://github.com/contextmirror/claude-memory
 
 ## Development
 

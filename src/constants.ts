@@ -15,7 +15,7 @@ export const MAX_README_CHARS = 3000;
 export const MAX_DESCRIPTION_CHARS = 200;
 
 // URLs
-export const PRODUCT_URL = 'https://claude-memory.dev';
+export const PRODUCT_URL = 'https://contextmirror.lemonsqueezy.com';
 export const DISCORD_URL = 'https://discord.gg/JBpsSFB7EQ';
 export const NPM_REGISTRY_URL = 'https://registry.npmjs.org/@contextmirror/claude-memory';
 export const LEMONSQUEEZY_VALIDATE_URL = 'https://api.lemonsqueezy.com/v1/licenses/validate';

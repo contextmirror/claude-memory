@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@contextmirror/claude-memory.svg)](https://www.npmjs.com/package/@contextmirror/claude-memory)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
-[![Discord](https://img.shields.io/discord/1454173469242822669?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/JBpsSFB7EQ)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/JBpsSFB7EQ)
 
 Cross-project memory for Claude Code. Give Claude awareness of ALL your projects, not just the one you're in.
 
@@ -268,7 +268,7 @@ claude-memory include my-secret-project
 
 ## Pro Features
 
-Activate with `claude-memory activate <key>`. Get a license at https://claude-memory.dev
+Activate with `claude-memory activate <key>`. Get a license at https://contextmirror.lemonsqueezy.com
 
 | Feature | Description |
 |---------|-------------|
@@ -307,7 +307,7 @@ No. All data stays in `~/.claude-memory/` on your machine. Nothing is sent to an
 
 Join our Discord for feedback, feature requests, and support:
 
-[![Discord](https://img.shields.io/discord/1454173469242822669?color=5865F2&label=Discord&logo=discord&logoColor=white)](https://discord.gg/JBpsSFB7EQ)
+[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?logo=discord&logoColor=white)](https://discord.gg/JBpsSFB7EQ)
 
 ## License
 

@@ -1,6 +1,6 @@
 {
   "name": "@contextmirror/claude-memory",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "Cross-project memory for Claude Code - know about all your projects",
   "type": "module",
   "main": "dist/cli.js",
@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/contextmirror/claude-memory/issues"
   },
-  "homepage": "https://claude-memory.dev",
+  "homepage": "https://github.com/contextmirror/claude-memory",
   "engines": {
     "node": ">=18.0.0"
   },

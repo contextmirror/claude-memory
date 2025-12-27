@@ -145,7 +145,7 @@ export async function activateLicense(key: string): Promise<LicenseValidationRes
   if (!validateKeyFormat(normalizedKey)) {
     return {
       valid: false,
-      error: 'Invalid license key format. Get your key from https://claude-memory.dev',
+      error: 'Invalid license key format. Get your key from https://contextmirror.lemonsqueezy.com',
     };
   }
 
@@ -242,6 +242,6 @@ export function getLicenseStatus(): LicenseStatus {
 export function getProFeatureMessage(featureName: string): string {
   return `${featureName} is a Pro feature.
 
-Upgrade at https://claude-memory.dev or activate your license:
+Upgrade at https://contextmirror.lemonsqueezy.com or activate your license:
   claude-memory activate <your-key>`;
 }

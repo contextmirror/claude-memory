@@ -501,7 +501,7 @@ program
       console.log(`   Status: Active`);
     } else {
       console.log(`   Status: ${status.expiresAt ? 'Expired' : 'Not activated'}`);
-      console.log('\n   Upgrade at https://claude-memory.dev');
+      console.log('\n   Upgrade at https://contextmirror.lemonsqueezy.com');
       console.log('   Or run: claude-memory activate <your-key>');
     }
   });

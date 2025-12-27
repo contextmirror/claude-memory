@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.6] - 2025-12-27
+
+### Added
+- GitHub Actions CI/CD workflows (test on PR, auto-publish on tag)
+
+### Changed
+- Updated homepage to GitHub repository
+- Updated Pro license URLs to LemonSqueezy store
+- Simplified Discord badge (no widget required)
+
 ## [0.4.5] - 2025-12-26
 
 ### Changed
